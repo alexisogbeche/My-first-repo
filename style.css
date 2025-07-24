@@ -1,19 +1,14 @@
 h1{
-    color: green;
-    font-size: 100px;
     text-align: center;
-    background-color: orange;
-    font-family: monospace;
-}
-
-p{
-    color: blue;
-    font-size: 35px;
-    text-align: justify;
-    line-height: 50px;
+    color: red;
     font-weight: bold;
-    text-decoration: underline;
-    font-style: italic;
-    text-transform: uppercase;
-    word-spacing: 35px;
+    margin-bottom: 50px;
+    background-color: grey;
+    padding: 50px;
+    box-shadow: 2px 4px 8px black;
+    border-radius: 100px;
+}
+p{
+    margin: 0;
+    border-right: skyblue 5px dotted;
 }
